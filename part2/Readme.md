@@ -81,20 +81,3 @@ task16 在线预览地址：<http://pkjy.github.io/ife-task/2016_spring/part2/ta
 　　从任务的难易程度排序，简单到困难，依次是：**任务13-17，18-21，22-25** | **29-32，26-28，33-36**
 
 　　基础较好的同学可以直接选择难度较大的任务集合。能力较强的同学也可以在某个系列中直接选择靠后面较难的题目。
-## notes
-
-#### task14 零基础JavaScript编码（二）
-原来array数组自带排序的方法！！！一定要好好学好基础啊！
-
-
-#### task15 零基础JavaScript编码（三）
-排序之后切记要`return data`哦，找了一个多小时，原来是这里出问题了。
-
-好像火狐浏览器不支持`innerText`，改用了`innerHTML`
-
-#### task16 面向零基础的JavaScript代码编写（四）
-数组使用`bracket`的记法就可以同时命名数组的属性和值了。
-
-`for in`循环的使用，如何遍历对象的属性和值，[W3CSchool的示例](http://www.w3school.com.cn/tiy/t.asp?f=js_object_for_in)。
-
-getElement方法获取了之后，好像要加上`.target`才能访问到其`parentNode`之类的.
