@@ -7,7 +7,7 @@ task14 仓库地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh
 task14 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part2/task14/>
 
 task15 仓库地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part2/task15><br>
-task15 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part2/task15//>
+task15 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part2/task15/>
 
 task16 仓库地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part2/task16><br>
 task16 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part2/task16/>
