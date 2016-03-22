@@ -2,37 +2,37 @@
 
 ## Demo 
 task01 任务要求地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/blob/gh-pages/part1/task01.md><br>
-task01 在线预览地址：<http://teamcodematters.github.io/ife-task/Baidu-IFE-task/part1/task01.html>
+task01 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part1/task01.html>
 
 task02 任务要求地址：<https://github.com/teamcodematters/Baidu-IFE-task/blob/gh-pages/2016_spring/part1/task02.md><br>
-task02 在线预览地址：<http://teamcodematters.github.io/ife-task/Baidu-IFE-task/part1/task02.html>
+task02 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part1/task02.html>
 
 task03 任务要求地址：<https://github.com/teamcodematters/Baidu-IFE-task/blob/gh-pages/2016_spring/part1/task03.md><br>
-task03 在线预览地址：<http://teamcodematters.github.io/ife-task/Baidu-IFE-task/part1/task03.html>
+task03 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part1/task03.html>
 
 task04 任务要求地址：<https://github.com/teamcodematters/Baidu-IFE-task/blob/gh-pages/2016_spring/part1/task04.md><br>
-task04 在线预览地址：<http://teamcodematters.github.io/ife-task/Baidu-IFE-task/part1/task04.html>
+task04 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part1/task04.html>
 
 task05 任务要求地址：<https://github.com/teamcodematters/Baidu-IFE-task/blob/gh-pages/2016_spring/part1/task05.md><br>
-task05 在线预览地址：<http://teamcodematters.github.io/ife-task/Baidu-IFE-task/part1/task05.html>
+task05 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part1/task05.html>
 
 task07 任务要求地址：<https://github.com/teamcodematters/Baidu-IFE-task/blob/gh-pages/2016_spring/part1/task07.md><br>
-task07 在线预览地址：<http://teamcodematters.github.io/ife-task/Baidu-IFE-task/part1/task07.html>
+task07 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part1/task07.html>
 
 task08 任务要求地址：<https://github.com/teamcodematters/Baidu-IFE-task/blob/gh-pages/2016_spring/part1/task08.md><br>
-task08 在线预览地址：<http://teamcodematters.github.io/ife-task/Baidu-IFE-task/part1/task08.html>
+task08 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part1/task08.html>
 
 task09 任务要求地址：<https://github.com/teamcodematters/Baidu-IFE-task/blob/gh-pages/2016_spring/part1/task09.md><br>
-task09 在线预览地址：<http://teamcodematters.github.io/ife-task/Baidu-IFE-task/part1/task09.html>
+task09 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part1/task09.html>
 
 task10 任务要求地址：<https://github.com/teamcodematters/Baidu-IFE-task/blob/gh-pages/2016_spring/part1/task10.md><br>
-task10 在线预览地址：<http://teamcodematters.github.io/ife-task/Baidu-IFE-task/part1/task10.html>
+task10 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part1/task10.html>
 
 task11 任务要求地址：<https://github.com/teamcodematters/Baidu-IFE-task/blob/gh-pages/2016_spring/part1/task11.md><br>
-task11 在线预览地址：<http://teamcodematters.github.io/ife-task/Baidu-IFE-task/part1/task11.html>
+task11 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part1/task11.html>
 
 task12 任务要求地址：<https://github.com/teamcodematters/Baidu-IFE-task/blob/gh-pages/2016_spring/part1/task12.md><br>
-task12 在线预览地址：<http://teamcodematters.github.io/ife-task/Baidu-IFE-task/part1/task12.html>
+task12 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part1/task12.html>
 
 ## IFE春季班第一阶段任务
 
