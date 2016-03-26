@@ -1,0 +1,25 @@
+ul,li{
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+body{
+	width:800px;
+}
+.box{
+	border:2px solid black;
+	width:90%;
+	height:120px;
+}
+ul{
+	display:flex;
+	height:100%;
+	justify-content:space-around;
+	align-items:center;
+}
+li{
+	width:45%;
+	height:80%;
+	border:2px solid black;
+
+}
