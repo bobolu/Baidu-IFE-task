@@ -20,6 +20,9 @@ task18 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/par
 
 task19 仓库地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part2/task19><br>
 task19 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part2/task19/>
+
+task20 仓库地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part2/task20><br>
+task20 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part2/task20/>
 ## IFE春季班第一阶段任务
 
 　　第二阶段的主要目标是帮助大家 **了解、认识、学习、掌握JavaScript**。第一阶段任务从 **3月21日** 开始，持续到 **4月10日**。当然，您也可以在这个时间以后继续自行实践练习。第一阶段和第二阶段有一部分时间是重合的，主要考虑到大家的基础不同，有的同学HTML/CSS比较好，想更多地参与JavaScript的学习。对于想继续学习CSS的各位依然可以按照自己的节奏继续学习第一阶段的任务。
