@@ -24,6 +24,9 @@ task19 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/par
 task20 仓库地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part2/task20><br>
 task20 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part2/task20/>
 
+task21 仓库地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part2/task21><br>
+task21 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part2/task21/>
+
 task29 仓库地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part2/task29><br>
 task29 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part2/task29/>
 
