@@ -1,7 +1,7 @@
 # 2016年百度IFE春季班
 ## Demo 
-task39 任务要求地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part2/task39><br>
-task39 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part2/task39/>
+task39 任务要求地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part3/task39><br>
+task39 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part3/task39/>
 
 ## IFE春季班第三阶段任务
 
