@@ -105,14 +105,22 @@
     <p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/><p>占位</p><br/>
     </div>
     <script type="text/javascript">
-    window.onscroll = function(e) {
+    var table_head = document.getElementById('table_head');
+    var fixed_table = document.getElementById("fixed_table");
+    /**
+     * [scrollTableHead]滚动首行函数
+     * @param  {string} table 对应的表格
+     * @param  {string} head  对应的首行
+     * @return {function}       对鼠标滚动进行监控
+     */
+    function scrollTableHead (table,head){
+        return window.onscroll = function(e) {
         /**
          * [兼容浏览器]
          */
         var e = e || window.event;
         var scrolltop = document.documentElement.scrollTop || document.body.scrollTop;
-        var fist_line = document.getElementById('table_head');
-        var fixed_table = document.getElementById("fixed_table");
+        
         if (scrolltop > fixed_table.clientHeight) {
             table_head.style.display = "none";
         } else if (scrolltop > fixed_table.offsetTop) {
@@ -123,7 +131,10 @@
             table_head.style.position = "inherit";
             table_head.style.display = "table-row";
         }
+        }
+
     }
+    scrollTableHead(fixed_table,table_head);
     </script>
 </body>
 
