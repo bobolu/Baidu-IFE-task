@@ -3,6 +3,9 @@
 task37 任务要求地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part3/task37><br>
 task37 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part3/task37/>
 
+task38 任务要求地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part3/task38><br>
+task38 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part3/task38/>
+
 task39 任务要求地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part3/task39><br>
 task39 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part3/task39/>
 
