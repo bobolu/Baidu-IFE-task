@@ -11,6 +11,9 @@ task39 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/par
 
 task43 任务要求地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part3/task43><br>
 task43 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part3/task43/>
+
+task44 任务要求地址：<https://github.com/TeamCodeMatters/Baidu-IFE-task/tree/gh-pages/part3/task44><br>
+task44 在线预览地址：<http://teamcodematters.github.io/Baidu-IFE-task/part3/task44/>
 ## IFE春季班第三阶段任务
 
 　　 第三阶段的主要目标是帮助大家 综合练习HTML，CSS，JavaScript。第三阶段任务从 `4月11日` 开始，持续到 `5月4日`。当然，您也可以在这个时间以后继续自行实践练习。第三阶段的任务主要是为第四阶段的大任务进行准备，会有比较大的连贯性。
